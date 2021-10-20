@@ -1,18 +1,14 @@
-# Getting Started with Create React App
+# Welcome to Best Hospital website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [click her website](https://youthful-clarke-6849ee.netlify.app/).
 
-## Available Scripts
+## This is Best Hospital website
+this is best hospital and best servies.
 
-In the project directory, you can run:
+### `top servies`
+this is top doctor have hospital and some money visite 100% real treatment.
+Open [details](https://youthful-clarke-6849ee.netlify.app/) to view it in the browser.
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
 ### `npm test`
 
