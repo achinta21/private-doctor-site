@@ -1,0 +1,38 @@
+[
+    {
+    "id":54216,
+    "name":"Lawrence G. Jones",
+    "img":"https://i.ibb.co/tZXVyR3/,pexels-tima-miroshnichenko-6234600.jpg",
+    "prices":1500
+    },
+    {
+    "id":75862,
+    "name":"Daniel M. Bowman",
+    "img":"https://i.ibb.co/b5xpnFT/pexels-klaus-nielsen-6303775.jpg",
+    "prices":2100
+    },
+    {
+    "id":94612,
+    "name":"Jerry C. Ziegler",
+    "img":"https://i.ibb.co/RjwWzfx/pexels-tima-miroshnichenko-8376181.jpg",
+    "prices":1550
+    },
+    {
+    "id":96523,
+    "name":"Raymundo H. Bradford",
+    "img":"https://i.ibb.co/MgsbsDC/pexels-karolina-grabowska-7195186.jpg",
+    "prices":1400
+    },
+    {
+    "id":56842,
+    "name":"Robert W. Knight",
+    "img":"https://i.ibb.co/Jzb0tFF/pexels-karolina-grabowska-7195113.jpg",
+    "prices":1200
+    },
+    {
+    "id":15236,
+    "name":"Herman L. Buchman",
+    "img":"https://i.ibb.co/ZYyc9r0/pexels-gustavo-fring-4173249.jpg",
+    "prices":900
+    }
+]

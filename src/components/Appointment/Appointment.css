@@ -1,0 +1,14 @@
+.form{
+    background-color: #F0F5F7;
+   padding-top: 10px ;
+   padding-bottom: 10px;
+ 
+}
+.btn{
+    background-color: rgb(56, 55, 55);
+    padding: 8px 20px;
+}
+.btn:hover{
+    background-color: #F15B5A;
+   
+}
